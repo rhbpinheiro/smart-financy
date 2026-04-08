@@ -1,5 +1,5 @@
 # === CORE ===
-Django==5.2.12
+Django==5.2.13
 
 # === TESTES ===
 pytest==8.3.4
